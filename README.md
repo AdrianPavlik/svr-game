@@ -1,3 +1,3 @@
 # svr-game
 
-Pre otvorenie mapy je potrebné tlacič M
+Pre otvorenie mapy je potrebné stlačiť M
